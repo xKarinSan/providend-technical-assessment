@@ -56,3 +56,4 @@ the spec's "not valid, return 0".
 - Implement a database connection, especially with Postgres
 - Use Supabase authentication
 - Add logging for the backend
+- Add client-side caching (ie lazy loading) for the clients and the paginated notes
